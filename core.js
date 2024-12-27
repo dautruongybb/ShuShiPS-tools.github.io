@@ -18,6 +18,7 @@ var gu = 0;
 
 // Alphabetical order
 var available_langs = {
+    "vn_vn": { "name": "shuships", "file": "vn_vn.json", "direction": "rtl"},
     "ar_ar": { "name": "العربية", "file": "ar_ar.json", "direction": "rtl"},
     "bg_bg": { "name": "Български", "file": "bg_bg.json", "direction": "ltr"},
     "cz_cz": { "name": "Čeština", "file": "cz_cz.json", "direction": "ltr"},
