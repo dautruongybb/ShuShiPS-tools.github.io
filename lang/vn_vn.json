@@ -1,5 +1,5 @@
 {
-    ".authorMsg": "- Dịnh Tiếng Việt <a href='https://github.com/'>ShuShiPS</a>  <a href='https://facebook.com'>ShuShiPS</a> Cung cấp",
+    ".authorMsg": "- Dịnh Tiếng Việt <a href='https://github.com/'>bởi ShuShiPS</a>",
     "DualShock Calibration GUI": "Giao diện hiệu chuẩn DualShock",
     "Unsupported browser. Please use a web browser with WebHID support (e.g. Chrome).": "Trình duyệt không được hỗ trợ. Vui lòng sử dụng trình duyệt web có hỗ trợ WebHID (ví dụ: Chrome) .",
     "Connect a DualShock 4 or a DualSense controller to your computer and press Connect.": "Kết nối bộ điều khiển DualShock 4 hoặc DualSense với máy tính của bạn và nhấn nút Kết nối.",
@@ -32,7 +32,7 @@
     "Please move both sticks to the <b>top-right corner</b> and release them.": "Vui lòng di chuyển hai cần điều khiển đến <b>góc trên bên phải</b> và thả cần điều khiển ra.",
     "Please move both sticks to the <b>bottom-left corner</b> and release them.": "Vui lòng di chuyển hai cần điều khiển đến <b>góc dưới bên trái</b> và thả cần điều khiển ra.",
     "Please move both sticks to the <b>bottom-right corner</b> and release them.": "Vui lòng di chuyển hai cần điều khiển đến <b>góc dưới bên phải</b> và thả cần điều khiển ra.",
-    "Calibration completed successfully!": "Hiệu chuẩn hoàn tất, thành côn!",
+    "Calibration completed successfully!": "Hiệu chuẩn hoàn tất, thành công!",
     "Next": "Bước tiếp theo",
     "Recentering the controller sticks. ": "Đặt lại vị trí trung tâm thanh. ",
     "Please do not close this window and do not disconnect your controller. ": "Vui lòng không đóng cửa sổ này hoặc ngắt kết nối bộ điều khiển. ",
@@ -46,7 +46,7 @@
     "! :)": "! :)",
     "Do you have any suggestion or issue? Drop me a message via email or discord.": "Bạn có gợi ý hay vấn đề gì không? Hãy gửi cho tôi tin nhắn qua email hoặc discord.",
     "Cheers!": "Chúc mừng!",
-    "Support this project": "Unterstütze dieses Projekt",
+    "Support this project": "Thích thịt chó",
 
     "unknown": "unbekannt",
     "original": "original", 
